@@ -1,0 +1,27 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "this is for practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harithaemi/react-course.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "learning"
+  ],
+  "author": "emi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harithaemi/react-course/issues"
+  },
+  "homepage": "https://github.com/harithaemi/react-course#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
